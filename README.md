@@ -11,3 +11,5 @@ woord bedoeld is om *quotes* van personen op te maken.
 
 Mijn leerkracht zegt wel eens:
 > Markdown is een zeer handige opmaaktaal voor eenvoudige tekstjes!
+
+🎄
